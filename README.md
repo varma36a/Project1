@@ -10,8 +10,14 @@ Simple ecommerce react js app with firebase [typescript].
 $ firebase init
 ```
 
+specify the dist folder while init
+
 ```sh
-$ firebase init
+$ ng build --configuration production
+```
+
+```sh
+$ firebase deploy
 ```
 
 ## Features
