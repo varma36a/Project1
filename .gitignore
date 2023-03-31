@@ -340,6 +340,11 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 
+
+# Local History for Visual Studio
+.angular/
+
+
 # BeatPulse healthcheck temp database
 healthchecksdb
 
