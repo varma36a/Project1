@@ -9,6 +9,7 @@ import { LoginComponent } from './login/login.component';
 import { HomeComponent } from './home/home.component';
 import { HeaderComponent } from './header/header.component';
 import { FeatureModule } from './feature/feature.module';
+import { MovieComponent } from './movie/movie.component';
 
 
 @NgModule({
@@ -16,7 +17,8 @@ import { FeatureModule } from './feature/feature.module';
     AppComponent,
     LoginComponent,
     HomeComponent,
-    HeaderComponent
+    HeaderComponent,
+    MovieComponent
 
   ],
   imports: [
